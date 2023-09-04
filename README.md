@@ -1,4 +1,16 @@
-### Hi there 👋
+👨‍💻 About Me:
+
+- I am a software developer.
+
+🔧 Technology Stack:
+
+- Programming Languages: C, Python
+- Scripting Languages : Bash, YAML
+- Build Systems : Autotools, Meson, Bazel
+- Web Development : Django, HTML, CSS
+- Databases : PostgreSQL
+- AI/ML/Computer Vision: PyTorch, OpenCV, CNNs, YOLO
+- CI/CD Tools : Github Actions
 
 <!--
 **sarathvns/sarathvns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
