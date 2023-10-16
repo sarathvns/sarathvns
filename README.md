@@ -7,7 +7,7 @@
 - Programming Languages: C, Python
 - Scripting Languages : Bash, YAML
 - Build Systems : Autotools, Meson, Bazel
-- Web Development : Django, HTML, CSS
+- Web Development : Flask, Django, HTML, CSS
 - Databases : PostgreSQL
 - AI/ML/Computer Vision: PyTorch, OpenCV, CNNs, YOLO
 - CI/CD Tools : Github Actions
